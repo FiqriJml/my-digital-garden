@@ -1,0 +1,16 @@
+{
+    "name": "Technical Wiki",
+    "short_name": "TechWiki",
+    "theme_color": "#2563eb",
+    "background_color": "#1b1b1d",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "img/logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
